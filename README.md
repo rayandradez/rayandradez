@@ -35,4 +35,4 @@ Here's a glimpse into my GitHub activity:
 
 ## Contribution Snake
 
-<img src="https://github.com/rayandradez/rayandradez/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
